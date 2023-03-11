@@ -1,0 +1,48 @@
+{
+  "qa.epi": {
+    "anchoringServices": [
+      "https://mah1-qa.plaqa.org",
+      "https://mah2-qa.plaqa.org",
+      "https://mah3-qa.plaqa.org",
+      "https://mah4-qa.plaqa.org"
+    ],
+    "brickStorages": [
+      "https://mah1-qa.plaqa.org",
+      "https://mah2-qa.plaqa.org",
+      "https://mah3-qa.plaqa.org",
+      "https://mah4-qa.plaqa.org"
+    ]
+  },
+  "qa.epi.mah1": {
+    "anchoringServices": [
+      "https://mah1-qa.plaqa.org"
+    ],
+    "brickStorages": [
+      "https://mah1-qa.plaqa.org"
+    ]
+  },
+  "qa.epi.mah2": {
+    "anchoringServices": [
+      "https://mah2-qa.plaqa.org"
+    ],
+    "brickStorages": [
+      "https://mah2-qa.plaqa.org"
+    ]
+  },
+  "qa.epi.mah3": {
+    "anchoringServices": [
+      "https://mah3-qa.plaqa.org"
+    ],
+    "brickStorages": [
+      "https://mah3-qa.plaqa.org"
+    ]
+  },
+  "qa.epi.mah4": {
+    "anchoringServices": [
+      "https://mah4-qa.plaqa.org"
+    ],
+    "brickStorages": [
+      "https://mah4-qa.plaqa.org"
+    ]
+  }
+}
